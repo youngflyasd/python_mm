@@ -1,1 +1,1 @@
-# python_math
+# python_math simple machine learning examples
